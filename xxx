@@ -1,0 +1,1 @@
+java -cp ./target/dl4j-examples-1.0.0-SNAPSHOT-shaded.jar com.example.rmitest.SearchServer
